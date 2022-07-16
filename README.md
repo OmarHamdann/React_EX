@@ -1,2 +1,2 @@
-# React_EX
+# React
 react class component examples
